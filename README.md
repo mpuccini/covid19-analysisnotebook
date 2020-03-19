@@ -7,4 +7,13 @@ This is a simple Python notebook to analize data about italian Covid-19 plague. 
 Clone the repository and launch Jupyter:  
 `jupyter notebook`  
 Then choose the notebook and play!  
-You might need some dependancies, you have them in the `environment.yml` file.
+You might need some dependancies, you have them in the `environment.yml` file.  
+You could create a virtual environment with pip referring to the dependacies in the environment.yml or, if you have conda (Anaconda or miniconda), create a new environment with just:  
+`conda env create -f environment.yml`  
+If you need more information about installing a conda distro, please refer to this [link](https://www.anaconda.com/distribution/) for Anaconda and to this [link](https://docs.conda.io/en/latest/miniconda.html) for miniconda.  
+
+Once you have the environment with all the necessary dependancies, you have to activate it just typing:  
+`conda activate covid19`  
+then you can launch Jupyter as above.
+
+> Please remember to update the data repository first of start analysing.
