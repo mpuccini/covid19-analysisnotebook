@@ -1,5 +1,7 @@
 # Covid-19 Simple Analysis Python Notebook
 
+[![GitHub license](https://img.shields.io/github/license/mpuccini/covid19-analysisnotebook)](https://github.com/mpuccini/covid19-analysisnotebook/blob/master/LICENSE)
+
 This is a simple Python notebook to analize data about italian Covid-19 plague. The dataset is linked (as a git submodule) to the institutional official data released by the italian *Protezione Civile* [repository](https://github.com/pcm-dpc/COVID-19.git).
 
 ## How it works?
